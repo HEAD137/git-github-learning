@@ -6,4 +6,4 @@ print("Multiplication:", a * b)
 print("Subtraction:", a - b)
 print("Power:", a ** b)
 print ("division:",a/b)
-print ("create nuissance")
+
